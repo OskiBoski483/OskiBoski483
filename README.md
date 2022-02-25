@@ -1,6 +1,7 @@
 ### Hi there 👋
 🔭 I’m currently working on Electron Addons and OpenWave <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OskiBoski483&show_icons=true&theme=cobalt)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OskiBoski483)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **OskiBoski483/OskiBoski483** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
